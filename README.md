@@ -11,14 +11,8 @@ Highly efficient and accurate geocoding process
 
 # Installation
 1. Clone the repository
-git clone https://github.com/your_username/SUPER_GEOCODER.git
-
 2. Install the required dependencies
-pip install -r requirements.txt
-
 3. Run the Flask application
-python app.py
-
 4. Open a web browser and go to http://localhost:5000
 
 # Usage
@@ -35,5 +29,4 @@ Copy code
 
 3. Once the process is complete, you can download the resulting CSV file with the latitude and longitude coordinates for each address.
 
-Contributors
-Your Name @udaysingh21 
+Contributors: @udaysingh21 
