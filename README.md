@@ -29,5 +29,5 @@ Copy code
 
 3. Once the process is complete, you can download the resulting CSV file with the latitude and longitude coordinates for each address.
 
-# Contributors:
-@udaysingh21 
+# Contact
+If you have any questions or suggestions, please feel free to contact me at uvs2111@gmail.com
