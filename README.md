@@ -19,7 +19,6 @@ Highly efficient and accurate geocoding process
 # Usage
 1. Upload a CSV file with addresses in the following format:
 
-Copy code
 | id | address         |
 |----|----------------|
 | 1  | 123 Main St.    |
